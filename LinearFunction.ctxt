@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LinearFunction
+comment1.params=slope
+comment1.target=double\ getSlope(double)
+comment2.params=yIntc
+comment2.target=double\ getYintercept(double)
+comment3.params=slope\ yIntc
+comment3.target=double\ getRoot(double,\ double)
+comment4.params=x\ slope\ yIntc
+comment4.target=double\ getYvalue(double,\ double,\ double)
+comment5.params=y\ slope\ yIntc
+comment5.target=double\ getXvalue(double,\ double,\ double)
+numComments=6

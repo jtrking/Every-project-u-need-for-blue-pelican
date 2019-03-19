@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Crypto
+comment1.params=sntnc
+comment1.target=java.lang.String\ acceptor(java.lang.String)
+comment2.params=sntnc
+comment2.target=java.lang.String\ encrypt(java.lang.String)
+comment3.params=sntnc
+comment3.target=java.lang.String\ decrypt(java.lang.String)
+numComments=4
